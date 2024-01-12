@@ -1,0 +1,37 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: rgb(207, 199, 199);
+    background:url(../imagens/pexels-markus-spiske-1089438.jpg);
+    
+    width: 100vw;
+    height: 50vw;
+}
+#titulo{
+    flex-direction: column;
+}
+header h1{
+    font-size: 5vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header h2{
+    font-size: 2vw;
+}
+#imagemApresentacao{
+    width: 12vw;
+    height: 12vw;
+
+    margin: 2vw;
+    border-radius: 20px;
+
+    background: url(../imagens/pexels-sora-shimazaki-5935791.jpg);
+    background-size: cover;
+}
