@@ -1,1 +1,0 @@
-//Variaveis Globais

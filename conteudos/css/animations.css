@@ -14,17 +14,12 @@
         transform: translateX(0px);
     }
 }
-#titulo{
+.sumir{
     animation-name: sumirAparecer;
     animation-duration: 1.5s;
     animation-timing-function: linear;
 }
-#sobre{
-    animation-name: sumirAparecer;
-    animation-duration: 1.5s;
-    animation-timing-function: linear;
-}
-#imagemHacker{
+.transicaoHacker{
     animation-name: imagemHackerTransicao;
     animation-duration: 1.4s;
     animation-timing-function: linear;
