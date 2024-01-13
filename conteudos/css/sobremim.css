@@ -1,0 +1,44 @@
+main{
+    width: 100vw;
+    height: 50vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: url(../imagens/fundo\ preto\ e\ verde.avif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#sobreMimDiv{
+    width: 70vw;
+    height: 30vw;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+    background: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5vw;
+}
+#sobre{
+    width: 20vw;
+}
+#sobreMimFoto{
+    height: 20vw;
+    overflow: hidden;
+    border-radius: 500px;
+}
+#descricao{
+    width: 30vw;
+    height: 30vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    overflow: scroll;
+}
