@@ -1,18 +1,26 @@
-main{
-    background: url(../imagens/fundo\ preto\ e\ verde.avif);
-    background-size: cover;
+.projeto{
+    background: url(../imagens/pexels-stanislav-kondratiev-10816120.jpg);
+    background-size: contain;
     background-attachment: fixed;
 }
-#sobre{
+
+.divImagem{
     width: 20vw;
 }
-#sobreMimFoto{
+
+.imagem{
+    background-size: cover;
+}
+
+.imagem{
+    width: 20vw;
     height: 20vw;
     overflow: hidden;
     border-radius: 500px;
 }
-#descricao{
-    width: 30vw;
+
+.texto{
+    width: 40vw;
     height: 50vw;
 
     display: flex;
