@@ -4,21 +4,16 @@ main{
     background-attachment: fixed;
 }
 #sobre{
-    width: 20vw;
+    width: 40vh;
 }
 #sobreMimFoto{
-    height: 20vw;
+    height: 40vh;
     overflow: hidden;
     border-radius: 500px;
 }
 #descricao{
     width: 30vw;
-    height: 50vw;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    height: 50vh;
 
     overflow: scroll;
 }

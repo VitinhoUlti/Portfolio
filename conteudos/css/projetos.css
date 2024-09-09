@@ -9,24 +9,14 @@
 }
 
 .imagem{
-    background-size: cover;
-}
-
-.imagem{
-    width: 20vw;
-    height: 20vw;
+    height: 40vh;
     overflow: hidden;
     border-radius: 500px;
 }
 
 .texto{
-    width: 40vw;
-    height: 50vw;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    width: 30vw;
+    height: 50vh;
 
     overflow: scroll;
 }
