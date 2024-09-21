@@ -1,4 +1,10 @@
-.projeto{
+.linguagens{
+    background: url(../imagens/pexels-jorge-jesus-137537-614117.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.projetos{
     background: url(../imagens/pexels-stanislav-kondratiev-10816120.jpg);
     background-size: contain;
     background-attachment: fixed;
