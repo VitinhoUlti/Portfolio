@@ -14,9 +14,10 @@ header h2{
     font-size: 2vw;
 }
 #imagemHacker{
-    height: 24vh;
+    width: 12vw;
 
     margin: 2vw;
     border-radius: 20px;
     overflow: hidden;
 }
+
