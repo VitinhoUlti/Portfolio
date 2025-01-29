@@ -21,3 +21,11 @@ header h2{
     overflow: hidden;
 }
 
+@media (max-width: 1100px) {
+    header h1{
+        font-size: 5vw;
+    }
+    header h2{
+        font-size: 4vw
+    }
+}
