@@ -34,3 +34,6 @@ html, body{
 
     overflow-x: scroll;
 }
+h1{
+    font-size: 2vw;
+}
