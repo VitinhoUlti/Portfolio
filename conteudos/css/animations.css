@@ -8,7 +8,7 @@
 }
 @keyframes imagemHackerTransicao {
     0%{
-        transform: translateX(500px);
+        transform: translateX(900px);
     }
     100%{
         transform: translateX(0px);
